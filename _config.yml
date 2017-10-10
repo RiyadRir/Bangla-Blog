@@ -1,8 +1,8 @@
 # Site settings
-title: রিয়াদ এর বাংলা ব্লগ
+title: Riyad
 email: riyad.rir@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  রিয়াদের বাংলা ব্লগ বাংলায় জ্ঞান শেয়ার
+  রিয়াদের বাংলা ব্লগ
 baseurl: "" # the subpath of your site, e.g. /blog/
 # url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: riyadrir
